@@ -27,7 +27,7 @@ def fizzBuzz(number, listBuzz = []):
    listBuzz.append("Fizz")
   else:
    listBuzz.append(number)
-  fizzBuzz(number-1)
+  fizzBuzz(number-1, listBuzz)
  else:
   return listBuzz
 
