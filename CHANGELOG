@@ -1,0 +1,31 @@
+CHANGELOG
+=========
+
+2013-12-09 9:53:58 EST - Release v0.1 Alpha
+=====
+- Initial release
+
+2013-12-09 10:05:58 EST - Release v0.1 RC
+=====
+- Fixed a bug that caused negated number before calculating its module
+- Reduced didactic capabilities in favor of muh performance
+
+#2013-12-09 10:12:00 EST - Release v0.1 RC2
+=====
+- Fixed a code tag
+- Now instead of break it uses return 0 !!!EXPERIMENTAL!!!
+
+2013-12-09 10:21:25 EST - Release v0.1 FINAL
+=====
+- Improved performance
+- Now it actually runs.
+
+2013-12-09 10:21:25 EST - Release v0.2 FINAL
+=====
+- Prepared for import
+- Added fizzBuzz printing mode
+
+2013-12-09 11:24:25 EST - Release v0.3 FINAL
+=====
+- Improved modularity
+- Renamed to gFizzBuzz-Python
