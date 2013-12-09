@@ -32,15 +32,15 @@ def fizzBuzz(number, listBuzz):
   return listBuzz
 
 def printList(orientation, listBuzz):
-  if orientation == "straight":
-   listBuzz.reverse()
-   print "Printing in straight mode"
-  elif orientation == "reverse":
-   print "Printing in reverse mode"
-  else:
-   print "Invalid orientation. Defaulting to straight mode."
-  for x in listBuzz:
-   print x
+ if orientation == "straight":
+  listBuzz.reverse()
+  print "Printing in straight mode"
+ elif orientation == "reverse":
+  print "Printing in reverse mode"
+ else:
+  print "Invalid orientation. Defaulting to straight mode."
+ for x in listBuzz:
+  print x
 
 if __name__ == '__main__':
  sampleList = []
