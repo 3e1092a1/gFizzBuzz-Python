@@ -17,7 +17,7 @@
 
 #gFizzBuzz-Python
 
-def fizzBuzz(number, listBuzz = []):
+def fizzBuzz(number, listBuzz):
  if number > 0:
   if not(number%15):
    listBuzz.append("FizzBuzz")
@@ -28,8 +28,6 @@ def fizzBuzz(number, listBuzz = []):
   else:
    listBuzz.append(number)
   fizzBuzz(number-1, listBuzz)
- else:
-  return listBuzz
 
 def printList(orientation, listBuzz):
   if orientation == "straight":
