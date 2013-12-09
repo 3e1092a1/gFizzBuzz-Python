@@ -28,8 +28,6 @@ def fizzBuzz(number, listBuzz):
   else:
    listBuzz.append(number)
   fizzBuzz(number-1, listBuzz)
- else:
-  return listBuzz
 
 def printList(orientation, listBuzz):
  if orientation == "straight":
