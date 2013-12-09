@@ -19,11 +19,11 @@
 
 def fizzBuzz(number, listBuzz = []):
  if number > 0:
-  if !(number%15):
+  if not(number%15):
    listBuzz.append("FizzBuzz")
-  elif !(number%5):
+  elif not(number%5):
    listBuzz.append("Buzz")
-  elif !(number%3):
+  elif not(number%3):
    listBuzz.append("Fizz")
   else:
    listBuzz.append(number)
