@@ -9,6 +9,7 @@ Generates a Fizzbuzz chain given a certain number without using loops/goto/for/w
 Usage
 =========
 Run "gcc fizzBuzz.c -o fizzbuzz" to compile the C code.
+
 Open file with your console. Alternatively, run it with IDLE.
 
 ToDo list
