@@ -28,3 +28,22 @@
 -----------------------------------------
 - Improved modularity
 - Renamed to gFizzBuzz-Python
+
+2013-12-09 13:34:25 EST - Release v0.4 RETARD RAPIST RELEASE
+-----------------------------------------
+- MAJOR UPDATE: REWRITTEN TO Python3
+- fizzBuzz function rewritten by 3e1092a1 aka some Anon
+- More lightweight, now it shouldn't kill any RaspberryPi
+
+2013-12-09 13:42:50 EST - Release v0.4.1 RETARD RAPIST RELEASE
+-----------------------------------------
+- Fixed one bug: script wouldn't load in UNIX-like systems due a mismatch in the called python version and the used python3 version
+
+2013-12-09 11:31:09 EST - Release v0.4.2 RETARD RAPIST RELEASE
+-----------------------------------------
+- Less lines of code required
+- Slightly more efficient
+
+2013-12-10 01:27:30 EST - Release v0.5 AT LAST I TRULY C
+-----------------------------------------
+- MAJOR UPDATE: fizzBuzz has been rewritten to C
