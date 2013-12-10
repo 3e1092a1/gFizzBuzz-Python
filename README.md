@@ -1,4 +1,4 @@
-gFizzBuzz-Python 0.4 RETARD RAPIST RELEASE
+gFizzBuzz-Python 0.5 AT LAST I TRULY C
 =========
 An enterprise FizzBuzz solution for the most exigent /g/entoomen
 
